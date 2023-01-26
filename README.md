@@ -1,6 +1,6 @@
 # Contole Fininceiro {
 
-  Consiste numa aplicação para contole financeiro pessoa em c;
+  Consiste numa aplicação para contole financeiro pessoal em c;
 
   Desenvolvido na mateira de Linguagem de Programação da FATEC;
 
